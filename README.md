@@ -1,3 +1,6 @@
+<img width="964" height="477" alt="image" src="https://github.com/user-attachments/assets/66ff2822-5898-4ce3-b973-58960e7aeb63" />
+
+
 # Discord Welcomer Bot
 
 A simple Discord welcome bot made with Python and `discord.py`.
