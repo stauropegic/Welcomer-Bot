@@ -67,13 +67,7 @@ Open Command Prompt / Terminal inside the bot folder.
 Install the required Python packages:
 
 ```bash
-pip install -r requirements.txt
-```
-
-The bot currently requires:
-
-```
-discord.py
+pip install discord.py
 ```
 
 ---
